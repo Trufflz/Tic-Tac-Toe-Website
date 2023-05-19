@@ -1,1 +1,6 @@
 # Tic-Tac-Toe-Website
+One of the first programs I built while learning HTML, CSS, and JavaScript for the first time. I built this working game using knowledge from the school web development curriculum and through some self-learning I did outside of school.
+
+The user and another choose their symbols and face off in an intense game of Tic Tac Toe! This is an improvement from the first Tic-Tac-Toe project I did. In this version, the game is hosted on a local web browser instead of the terminal. The game is also dislpayed better than before using HTML and CSS properties, and features an endless gamemode by default. The board will first ask for a player's move. Everytime the user clicks a box, their symbol will appear in that generated box. Once that box is filled, any attempts to put another symbol in that same box will be invalidated. A winner is declared when a player can get their symbol to appear 3 times in a row. However, in this new version, once the board is full, it'll automatically remove symbols off of the board to allow the players to battle it out to the very end. If a game takes longer than 2 minutes, a tie game will be called, and the score will be recorded on the scoreboard. Players can play as much as they like, and when they're satisfied, they can reset the scoreboard.
+
+Completed on 4/17/2023
